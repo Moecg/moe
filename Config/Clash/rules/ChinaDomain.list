@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,youku.com
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
+DOMAIN-SUFFIX,baidu-int.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,bcebos.com
@@ -258,6 +259,9 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
 
+# MIHOYO
+DOMAIN-SUFFIX,mihoyo.com
+
 # NetEase
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
@@ -277,7 +281,7 @@ DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
 
-# Sina
+# Sina 新浪
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,sina.com

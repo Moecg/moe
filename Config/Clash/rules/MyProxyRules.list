@@ -1,0 +1,14 @@
+# 个人自定义代理规则
+
+# GitHub Common Service
+DOMAIN-SUFFIX,shields.io
+DOMAIN-SUFFIX,sourcerer.io
+
+# 人类验证
+DOMAIN-SUFFIX,hcaptcha.com
+
+# iwara 🔞
+DOMAIN-SUFFIX,iwara.tv
+
+# 灵梦御所 🔞
+DOMAIN-SUFFIX,reimu.net
