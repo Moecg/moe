@@ -4,6 +4,13 @@
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,sourcerer.io
 
+
+# Tampermonkey脚本 
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,openuserjs.org
+DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN-SUFFIX,userscript.zone
+
 # 人类验证
 DOMAIN-SUFFIX,hcaptcha.com
 

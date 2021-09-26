@@ -6,12 +6,6 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,letsencrypt.org
 
-# Tampermonkey脚本 
-DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,openuserjs.org
-DOMAIN-SUFFIX,tampermonkey.net
-DOMAIN-SUFFIX,userscript.zone
-
 # AGE
 DOMAIN-SUFFIX,agefans.net
 DOMAIN-SUFFIX,agefans.cc
