@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,lanzou.com
 DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzous.com
 DOMAIN-SUFFIX,lanzoux.com
+
+# 开源IP api
+DOMAIN-SUFFIX,ipify.org
