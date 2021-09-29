@@ -1,7 +1,7 @@
 # Bilibili
 
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
+#USER-AGENT,Bilibili*
+#USER-AGENT,bili*
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
